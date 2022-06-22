@@ -3,7 +3,7 @@ lxml==4.5.2
 tensorflow==2.0.0
 Keras==2.3.1
 opencv_python==4.2.0.34
-numpy==1.16.6
+numpy==1.22.0
 PyQt4==4.11.4
 PyQt5==5.15.1
 sip==5.4.0
